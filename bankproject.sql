@@ -1,3 +1,6 @@
+-- creating database
+create database bankproject;
+use bankproject;
 -- phpMyAdmin SQL Dump
 -- version 4.7.4
 -- https://www.phpmyadmin.net/
